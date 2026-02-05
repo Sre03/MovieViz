@@ -97,7 +97,7 @@ df_movies, df_genres = load_data()
 
 # --- Dashboard Title ---
 st.title("🎬 MovieLens Cinema Explorer")
-st.markdown("### *Movie Space Navigator - https://sre03.github.io/MovieViz/ \n Find movies to watch based on the genre of your choice - an interactive visualizer*")
+st.markdown("### *Movie Space Navigator - https://sre03.github.io/MovieViz/* \n Find movies to watch based on the genre of your choice - an interactive visualizer")
 st.markdown("### *Discover patterns in movie releases, genres, and cinematic trends over time*")
 
 
